@@ -1,16 +1,5 @@
-# How use in game!
+# ResetOnRelease
+reset on release dll for all versions of Fortnite.
 
----
-
-```json
-
-F6 is the key u need to press when u have injected it to enable it.
-```
-Important:
-
-
----
-
-## How to inject it
-
-* You Must have the uuu client or any injector to inject my dll into ur fortnite project.
+Can be activated via F6.
+This functionality can also be limited to only 1 of them, via opts.h (e.g. you're implementing it in a launcher and only want to have it activate from command line)
